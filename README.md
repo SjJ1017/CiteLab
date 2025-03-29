@@ -1,9 +1,11 @@
-# Citekit
+# CiteLab
 
 <div align="center">
 <a href="///" target="_blank"><img src=//></a><a href="https://github.com/SjJ1017/Citekit/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
 <a href="https://arxiv.org/abs/2408.04662" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 </div>
+
+This repository is for CiteKit, the predecessor of CiteLab. We are currently updating and maintaining it.
 
 ## Overview
 
