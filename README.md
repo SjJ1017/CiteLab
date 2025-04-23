@@ -1,11 +1,19 @@
 # CiteLab
 
+# ⚠️ NOTICE: Citekit has moved! ⚠️
+
+This repository is for **Citekit**, the predecessor of [**CiteLab**](https://github.com/SjJ1017/CiteLab25).
+
+👉 The **latest version** of this project is now actively maintained at:  
+🔗 [https://github.com/SjJ1017/CiteLab25](https://github.com/SjJ1017/CiteLab25)
+
+Please visit the new repository for the most recent features, updates, and documentation.
+
 <div align="center">
 <a href="///" target="_blank"><img src=//></a><a href="https://github.com/SjJ1017/Citekit/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green"></a>
 <a href="https://arxiv.org/abs/2408.04662" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 </div>
 
-This repository is for CiteKit, the predecessor of CiteLab. We are currently updating and maintaining it.
 
 ## Overview
 
