@@ -1,6 +1,6 @@
 # CiteLab
 
-# ⚠️ NOTICE: Citekit has moved! ⚠️
+# ⚠️ NOTICE: CiteLab has moved! ⚠️
 
 This repository is for **Citekit**, the predecessor of [**CiteLab**](https://github.com/SjJ1017/CiteLab25).
 
