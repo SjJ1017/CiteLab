@@ -5,7 +5,7 @@
 This repository is for **Citekit**, the predecessor of [**CiteLab**](https://github.com/SjJ1017/CiteLab25).
 
 # If you just want to try CiteLab:
-🚀🚀🚀 **Live Demo**: [Click here to try it out](https://huggingface.co/spaces/SHEN1017/Citelab)
+🚀🚀🚀 **Live Demo**: [Click here to try it out](https://huggingface.co/spaces/SHENJJ1017/Citelab)
 
 🆓 **Special for ACL2025 Conference**: No API key required during the conference period! 
 
